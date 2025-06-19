@@ -128,6 +128,5 @@ I'm a student at ITMO University, Faculty of Information Security. Passionate ab
 - 📞 +7 (931) 535-5395  
 - 💬 [Telegram](https://t.me/jkl2youtube)  
 - 📧 muhammet.jkl2.suhanguylev@gmail.com  
-- 🌐 [GitHub](https://github.com/JKL2theBest)  
 
 ---
