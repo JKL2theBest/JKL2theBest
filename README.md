@@ -14,8 +14,6 @@
 
 ---
 
----
-
 ### 🧪 [TabZ Exporter)](https://github.com/JKL2theBest/ITMO/tree/master/WebTechnologies/SuhangulyyevM_Senior_2/Chrome_Tabs_Exporter)
 **Описание:** Расширение для экспорта и восстановления вкладок браузера
 - Экспорт текущих вкладок в JSON
