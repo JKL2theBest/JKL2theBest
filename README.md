@@ -88,7 +88,6 @@
 - 📈 Автоматизирую процессы **DevSecOps**, чтобы безопасность была не этапом, а частью разработки.
 - 🔍 Совершенствую навыки **пентеста** и защиты инфраструктуры.
 
-<img src="https://raw.githubusercontent.com/JKL2theBest/JKL2theBest/output/github-snake-dark.svg?palette=github-dark" alt="Snake animation" />
-
-### ✍️ Случайная цитата для разработчика
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/JKL2theBest/JKL2theBest/output/github-snake-dark.svg" alt="Snake animation" />
+</div>
