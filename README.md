@@ -15,41 +15,37 @@
 
 ---
 
-<table>
-  <tr>
-    <td valign="top" width="60%">
-      <h4>👨‍💻 Обо мне</h4>
-      <p>
-        🎓 Студент <b>Университета ИТМО</b>, факультет Информационной Безопасности.<br>
-        🛡️ Моя страсть — создание безопасных, отказоустойчивых и эффективных систем.<br>
-        🚀 Обожаю автоматизировать всё, что движется, и искать уязвимости раньше, чем это сделают другие.<br>
-        💡 Сейчас активно ищу возможности применить свои навыки в реальных проектах и решать сложные задачи.
-      </p>
-      
-      <h4>🚀 Мои проекты</h4>
-      <ul>
-          <li><a href="https://github.com/JKL2theBest/quote-service-django"><b>Quote Service (Django)</b></a>: Сервис случайных цитат с лайками, просмотрами и админкой.</li>
-          <li><a href="https://github.com/JKL2theBest/salary-rest-service"><b>REST Salary Service (FastAPI)</b></a>: Защищённое API для зарплатной информации с JWT и Docker.</li>
-          <li><a href="https://github.com/JKL2theBest/rowboat-simulation"><b>Rowboat Simulation API</b></a>: Симуляция лодки с ролями, состояниями и жёсткой валидацией.</li>
-      </ul>
-      <details>
-        <summary><b>📂 Показать остальные учебные проекты</b></summary>
-        <ul>
-          <li><a href="https://github.com/JKL2theBest/ITMO/tree/master/WebTechnologies/SuhangulyyevM_Senior_2/Chrome_Tabs_Exporter"><b>TabZ Exporter</b></a>: Chrome-расширение для экспорта и восстановления вкладок.</li>
-          <li><a href="https://github.com/JKL2theBest/ITMO/tree/master/Programming/lab6"><b>Стек-буфер с undo/redo (C)</b></a>: Буфер с откатом действий и валидацией данных.</li>
-          <li><a href="https://github.com/JKL2theBest/ITMO/tree/master/OperatingSystems/lab9"><b>RPC Auth Service (C/Python)</b></a>: RPC-сервис аутентификации на C и анализ TCP-сокетов.</li>
-        </ul>
-      </details>
-    </td>
-    <td valign="top" width="40%">
-      <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=jkl2thebest&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-        <br/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jkl2thebest&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-      </div>
-    </td>
-  </tr>
-</table>
+### 👨‍💻 Обо мне
+
+- 🎓 Студент **Университета ИТМО**, факультет Информационной Безопасности.
+- 🛡️ Моя страсть — создание безопасных, отказоустойчивых и эффективных систем.
+- 🚀 Обожаю автоматизировать всё, что движется, и искать уязвимости раньше, чем это сделают другие.
+- 💡 Сейчас активно ищу возможности применить свои навыки в реальных проектах и решать сложные задачи.
+
+---
+
+### 🔥 Моя статистика
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jkl2thebest&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jkl2thebest&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+</p>
+
+---
+
+### 🚀 Мои проекты
+
+- **[Quote Service (Django)](https://github.com/JKL2theBest/quote-service-django)**: Сервис случайных цитат с лайками, просмотрами и админкой.
+- **[REST Salary Service (FastAPI)](https://github.com/JKL2theBest/salary-rest-service)**: Защищённое API для зарплатной информации с JWT и Docker.
+- **[Rowboat Simulation API](https://github.com/JKL2theBest/rowboat-simulation)**: Симуляция лодки с ролями, состояниями и жёсткой валидацией.
+
+<details>
+  <summary><b>📂 Показать остальные учебные проекты</b></summary>
+  
+  - **[TabZ Exporter](https://github.com/JKL2theBest/ITMO/tree/master/WebTechnologies/SuhangulyyevM_Senior_2/Chrome_Tabs_Exporter)**: Chrome-расширение для экспорта и восстановления вкладок.
+  - **[Стек-буфер с undo/redo (C)](https://github.com/JKL2theBest/ITMO/tree/master/Programming/lab6)**: Буфер с откатом действий и валидацией данных.
+  - **[RPC Auth Service (C/Python)](https://github.com/JKL2theBest/ITMO/tree/master/OperatingSystems/lab9)**: RPC-сервис аутентификации на C и анализ TCP-сокетов.
+</details>
 
 ---
 
@@ -87,6 +83,8 @@
 - 🚀 Углубляюсь в **Ansible**, **Jenkins** и **Kubernetes** для построения CI/CD пайплайнов.
 - 📈 Автоматизирую процессы **DevSecOps**, чтобы безопасность была не этапом, а частью разработки.
 - 🔍 Совершенствую навыки **пентеста** и защиты инфраструктуры.
+
+---
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/JKL2theBest/JKL2theBest/output/github-snake-dark.svg" alt="Snake animation" />
