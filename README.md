@@ -24,16 +24,15 @@
 
 ---
 
-### 🔥 Моя статистика
+### 🚀 Мои топ языки
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jkl2thebest&theme=dracula&hide_border=false&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jkl2thebest&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jkl2thebest&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=jupyter%20notebook" alt="Top Languages" />
 </p>
 
 ---
 
-### 🚀 Мои проекты
+### 💼 Мои проекты
 
 - **[Quote Service (Django)](https://github.com/JKL2theBest/quote-service-django)**: Сервис случайных цитат с лайками, просмотрами и админкой.
 - **[REST Salary Service (FastAPI)](https://github.com/JKL2theBest/salary-rest-service)**: Защищённое API для зарплатной информации с JWT и Docker.
