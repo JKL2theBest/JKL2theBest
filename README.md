@@ -1,141 +1,94 @@
-# 👋 Hi
+<h1 align="center">
+    <a href="#">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Привет,+я+JKL2theBest!+👋;Cybersecurity+%26+DevOps+энтузиаст;Студент+ИТМО" alt="Typing SVG" />
+    </a>
+</h1>
 
-# 🔗 Useful Links
-
----
-
-### 🧪 [Quote Service (Django)](https://github.com/JKL2theBest/quote-service-django)  
-Случайные цитаты с весами, лайками и просмотрами. Дашборд, валидация, AJAX, 100% тестов.  
-▶ [Демо](http://JKL2.pythonanywhere.com)
-
----
-
-### 🧪 [REST Salary Service (FastAPI + JWT)](https://github.com/JKL2theBest/salary-rest-service)  
-Защищённый доступ к зарплатной информации. JWT, Docker, Swagger, автотесты, `.env`.
-
----
-
-### 🧪 [TabZ Exporter](https://github.com/JKL2theBest/ITMO/tree/master/WebTechnologies/SuhangulyyevM_Senior_2/Chrome_Tabs_Exporter)  
-Экспорт и восстановление вкладок браузера. История, JSON, откат к предыдущим сессиям.
+<p align="center">
+  <a href="https://t.me/jkl2youtube">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  <a href="mailto:muhammet.jkl2.suhanguylev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
 
 ---
 
-### 🧪 [Rowboat Simulation API](https://github.com/JKL2theBest/rowboat-simulation)  
-Симуляция лодки с ролями и состояниями. Жёсткая валидация, pytest, тесткейсы.
+<table>
+  <tr>
+    <td valign="top" width="60%">
+      <h3>👨‍💻 Обо мне</h3>
+      <p>
+        🎓 Студент <b>Университета ИТМО</b>, факультет Информационной Безопасности.<br>
+        🛡️ Моя страсть — создание безопасных, отказоустойчивых и эффективных систем.<br>
+        🚀 Обожаю автоматизировать всё, что движется, и искать уязвимости раньше, чем это сделают другие.<br>
+        💡 Сейчас активно ищу возможности применить свои навыки в реальных проектах и решать сложные задачи.
+      </p>
+      
+      <h3>🚀 Мои проекты</h3>
+      <ul>
+          <li><a href="https://github.com/JKL2theBest/quote-service-django"><b>Quote Service (Django)</b></a>: Сервис случайных цитат с лайками, просмотрами и админкой.</li>
+          <li><a href="https://github.com/JKL2theBest/salary-rest-service"><b>REST Salary Service (FastAPI)</b></a>: Защищённое API для зарплатной информации с JWT и Docker.</li>
+          <li><a href="https://github.com/JKL2theBest/rowboat-simulation"><b>Rowboat Simulation API</b></a>: Симуляция лодки с ролями, состояниями и жёсткой валидацией.</li>
+      </ul>
+      <details>
+        <summary><b>📂 Показать остальные учебные проекты</b></summary>
+        <ul>
+          <li><a href="https://github.com/JKL2theBest/ITMO/tree/master/WebTechnologies/SuhangulyyevM_Senior_2/Chrome_Tabs_Exporter"><b>TabZ Exporter</b></a>: Chrome-расширение для экспорта и восстановления вкладок.</li>
+          <li><a href="https://github.com/JKL2theBest/ITMO/tree/master/Programming/lab6"><b>Стек-буфер с undo/redo (C)</b></a>: Буфер с откатом действий и валидацией данных.</li>
+          <li><a href="https://github.com/JKL2theBest/ITMO/tree/master/OperatingSystems/lab9"><b>RPC Auth Service (C/Python)</b></a>: RPC-сервис аутентификации на C и анализ TCP-сокетов.</li>
+        </ul>
+      </details>
+    </td>
+    <td valign="top" width="40%">
+      <div align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=jkl2thebest&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+        <br/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jkl2thebest&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+      </div>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🧪 [Валидируемый стек-буфер с undo/redo](https://github.com/JKL2theBest/ITMO/tree/master/Programming/lab6)  
-Буфер с откатом действий, проверкой формата номеров и тестовым покрытием.
+### ⚙️ Мой Технологический Стек
+
+<p align="center">
+  <strong>Языки:</strong><br>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" /></a>
+  <img width="12" />
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" /></a>
+  <img width="12" />
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" /></a>
+  <img width="12" />
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo" /></a>
+  <img width="12" />
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" /></a>
+</p>
+<p align="center">
+  <strong>Фреймворки и Технологии:</strong><br>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo" /></a>
+  <img width="12" />
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo" /></a>
+  <img width="12" />
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" /></a>
+  <img width="12" />
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" /></a>
+  <img width="12" />
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" /></a>
+</p>
 
 ---
 
-### 🧪 [TCP Socket & RPC Auth Service](https://github.com/JKL2theBest/ITMO/tree/master/OperatingSystems/lab9)  
-RPC-сервис с аутентификацией на C и анализ TCP-сокетов на Python.
+### 🎯 Что я изучаю сейчас
 
----
+- 🚀 Углубляюсь в **Ansible**, **Jenkins** и **Kubernetes** для построения CI/CD пайплайнов.
+- 📈 Автоматизирую процессы **DevSecOps**, чтобы безопасность была не этапом, а частью разработки.
+- 🔍 Совершенствую навыки **пентеста** и защиты инфраструктуры.
 
-### 🧪 [TCP Клиент-Сервер округления (C)](https://github.com/JKL2theBest/ITMO/tree/master/SystemProgramming/lab2msN3246)  
-Сервер с форками, клиентский протокол округления, демонизация, сигналы.
+<img src="https://raw.githubusercontent.com/JKL2theBest/JKL2theBest/output/github-snake-dark.svg?palette=github-dark" alt="Snake animation" />
 
-
-## 💼 About Me
-
-I'm a student at ITMO University, Faculty of Information Security. Passionate about DevOps, cybersecurity, system programming, and software testing. Actively seeking opportunities to apply my skills in real-world projects.
-
----
-
-## 🧠 Tech Stack
-
-### 💻 Programming Languages  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
----
-
-### 🐧 Operating Systems  
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Unix](https://img.shields.io/badge/-Unix-262D3A?style=for-the-badge&logo=gnu&logoColor=white)
-![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
----
-
-### 🔐 Cybersecurity  
-- Web vulnerabilities: `XSS`, `CSRF`, `IDOR`, `SQLi`, `LFI`, `SSTI`, `SSRF`  
-- Access control models: `DAC`, `MAC`, `RBAC`  
-- Auth: `OAuth 2.0`, `JWT`, `PAM`  
-- Tools:  
-  ![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF6F00?style=for-the-badge&logo=burpsuite&logoColor=white)  
-  ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)  
-  ![DevTools](https://img.shields.io/badge/-DevTools-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)  
-  ![SIEM](https://img.shields.io/badge/-SIEM-00599C?style=for-the-badge)  
-  ![OSINT](https://img.shields.io/badge/-OSINT-6A1B9A?style=for-the-badge)
-
----
-
-### 🧪 Testing  
-- Tools:  
-  ![PyTest](https://img.shields.io/badge/-PyTest-0A9EDC?style=for-the-badge&logo=python&logoColor=white)  
-- Types: Manual, Automated, Functional, Regression
-
----
-
-### ⚙️ DevOps & CI/CD  
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-- Basics: `DevSecOps`, Continuous Integration practices
-
----
-
-### 📡 Networking  
-- Protocols: `TCP/IP`, `HTTP/S`, `DNS`, `WebSocket`  
-- Tools: `Wireshark`, custom packet parsers, protocol fuzzing
-
----
-
-### 📊 Big Data & ML (Introductory)  
-- Fundamentals of ML, big data, clustering  
-- University courses (2025)
-
----
-
-## 🎯 Learning Goals
-
-- 🚀 Master:  
-  ![Ansible](https://img.shields.io/badge/-Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white)
-  ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-  ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-- 📈 Improve DevSecOps pipeline automation  
-- 🔍 Deepen penetration testing and infrastructure security skills
-
----
-
-## 📁 Projects & Contributions
-
-- 📌 [ITMO Repository](https://github.com/JKL2theBest/ITMO) — labs in C, Python, networking, and security
-- 🧠 Participated in CTFs, developed educational exploits
-- 🛠️ Simulated real-world network protocols and services
-
----
-
-## 🗣️ Languages
-
-- 🇷🇺 Russian — Native  
-- 🇬🇧 English — B2 (Upper Intermediate)  
-- 🇹🇲 Turkmen — Fluent  
-
----
-
-## 📫 Contact
-
-- 📞 +7 (931) 535-5395  
-- 💬 [Telegram](https://t.me/jkl2youtube)  
-- 📧 muhammet.jkl2.suhanguylev@gmail.com  
-
----
+### ✍️ Случайная цитата для разработчика
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
