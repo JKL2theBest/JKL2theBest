@@ -1,6 +1,6 @@
 <h1 align="center">
     <a href="#">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=550&lines=Привет,+я+JKL2theBest!+👋;Cybersecurity+%26+DevOps+энтузиаст;Студент+ИТМО" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Привет,+я+JKL2theBest!+👋;Cybersecurity+%26+DevOps+энтузиаст;Студент+ИТМО" alt="Typing SVG" />
     </a>
 </h1>
 
