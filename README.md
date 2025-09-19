@@ -8,9 +8,12 @@
   <a href="https://t.me/jkl2youtube">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
-  <a href="mailto:muhammet.jkl2.suhanguylev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
+</p>
+
+---
+
+<p align="center">
+  Пссс... одногруппник! 🕵️‍♂️ <a href="https://github.com/JKL2theBest/ITMO/tree/master/_Studying(5th_sem)"><b>Актуалочка по 5-му сему тут</b></a>.
 </p>
 
 ---
