@@ -13,6 +13,11 @@
     </a>
 </p>
 
+<details align="center">
+  <summary>Показать QR-код (CloudTips)</summary>
+  <img src="https://raw.githubusercontent.com/JKL2theBest/JKL2theBest/main/qr-code.png" width="200" alt="QR Code"/>
+</details>
+
 ---
 
 <p align="center">
