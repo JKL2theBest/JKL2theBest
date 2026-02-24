@@ -8,15 +8,7 @@
     <a href="https://t.me/jkl2youtube">
       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
     </a>
-    <a href="https://pay.cloudtips.ru/p/d06321dd">
-      <img src="https://img.shields.io/badge/Поддержать-FFBF00?style=for-the-badge&logo=ruble&logoColor=black" alt="Поддержать"/>
-    </a>
 </p>
-
-<details align="center">
-  <summary>Показать QR-код (CloudTips)</summary>
-  <img src="https://raw.githubusercontent.com/JKL2theBest/JKL2theBest/main/qr-code.png" width="200" alt="QR Code"/>
-</details>
 
 ---
 
